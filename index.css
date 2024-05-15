@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#frame {
+    padding: 1rem;
+    background-color: whitesmoke;
+}
+
+#timerDisplay-el {
+    font-size: 3rem;
+}
