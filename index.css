@@ -14,9 +14,17 @@ body {
 
 #frame {
     padding: 1rem;
-    background-color: whitesmoke;
+    background-color: rgb(2, 196, 196);
+    width: 50%;
+    height: 30%;
+    margin: auto auto;
+    text-align: center;
 }
 
 #timerDisplay-el {
+    font-size: 3rem;
+}
+
+button {
     font-size: 3rem;
 }
