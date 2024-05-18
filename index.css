@@ -6,6 +6,8 @@
 
 body {
     background-color: black;
+    background: url(./stopwatch.jpg) no-repeat center center;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +16,8 @@ body {
 
 #frame {
     padding: 1rem;
-    background-color: rgb(2, 196, 196);
+    background-color: rgba(107, 88, 117, 0.39);
+    color: wheat;
     width: 50%;
     height: 30%;
     margin: auto auto;
